@@ -21,4 +21,4 @@ I’m a **Machine Perception Engineer** specializing in developing cutting-edge 
 ---
 
 ## 📫 **Let’s Connect**  
-- 💼 [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/erkan-adali-7b224293/))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/erkan-adali-7b224293/)) 
