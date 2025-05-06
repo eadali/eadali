@@ -8,3 +8,10 @@ I’m a **Machine Perception Engineer** specializing in developing cutting-edge 
 💬 **Ask me about:** LiDAR perception, sensor fusion, or how to make deep learning models efficient on edge devices.  
 
 ---
+
+## 🛠️ **Areas of Expertise**  
+| **Perception & AI**            | **Programming & Tools**       | **Frameworks & Platforms**  |  
+|--------------------------------|-------------------------------|-----------------------------|  
+| 3D Object Detection & Tracking | Python                        | PyTorch                     |  
+| Sensor Fusion (LiDAR/Camera)   | C++ (Modern, Embedded)        | ROS                         |  
+| Real-Time Perception Systems   | MATLAB/Simulink               | Open3D/PCL                  |  
