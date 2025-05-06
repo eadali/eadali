@@ -1,3 +1,5 @@
+[Boat](imgs/boat.png)
+
 # Hi, I'm Erkan 👋  
 ### **Machine Perception Engineer**  
 
