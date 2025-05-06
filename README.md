@@ -1,10 +1,10 @@
 # Hi, I'm Erkan 👋  
-### **Machine Perception Engineer | Autonomous Driving Specialist**  
+### **Machine Perception Engineer**  
 
-I’m a seasoned **Machine Perception Engineer** with **8+ years** of experience developing cutting-edge LiDAR, camera, and sensor fusion systems for autonomous vehicles. My work focuses on building **robust, scalable perception solutions** to advance self-driving technologies.  
+I’m a **Machine Perception Engineer** specializing in developing cutting-edge LiDAR, camera, and sensor fusion systems for autonomous vehicles. My work focuses on building **robust, scalable perception solutions** to advance self-driving technologies
 
 🔭 **Currently:** Pushing the boundaries of 3D perception at Sandvik.  
-🌱 **Learning/Exploring:** "Edge AI for Robotics".  
+🌱 **Learning/Exploring:** Edge AI for Robotics.  
 💬 **Ask me about:** LiDAR perception, sensor fusion, or how to make deep learning models efficient on edge devices.  
 
 ---
