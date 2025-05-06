@@ -15,3 +15,8 @@ I’m a **Machine Perception Engineer** specializing in developing cutting-edge 
 | 3D Object Detection & Tracking | Python                        | PyTorch                     |  
 | Sensor Fusion (LiDAR/Camera)   | C++ (Modern, Embedded)        | ROS                         |  
 | Real-Time Perception Systems   | MATLAB/Simulink               | Open3D/PCL                  |  
+
+---
+
+## 📫 **Let’s Connect**  
+- 💼 [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/erkan-adali-7b224293/))  
