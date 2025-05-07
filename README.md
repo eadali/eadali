@@ -15,7 +15,7 @@ I’m a **Machine Perception Engineer** specializing in developing cutting-edge 
 
 | Project | Description | Tech Stack |  
 |---------|-------------|------------|  
-| **[PeSAR](link)** | A brief description. | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/-PyTorch-339933?logo=pytorch&logoColor=white) |  
+| **[PeSAR]([link](https://github.com/eadali/PeSAR))** | AI-powered visual detection system for aerial search operations. | ![supervision](https://img.shields.io/badge/-supervision-61DAFB?logo=supervision&logoColor=black) ![PyTorch](https://img.shields.io/badge/-PyTorch-339933?logo=pytorch&logoColor=white) |  
 | **[Project 2](link)** | Another description. | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white) |  
 
 ---
