@@ -22,7 +22,7 @@ I’m a **Machine Perception Engineer** specializing in developing cutting-edge 
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=eadali&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
