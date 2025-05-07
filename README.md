@@ -6,8 +6,8 @@
 I’m a **Machine Perception Engineer** specializing in developing cutting-edge LiDAR, camera, and sensor fusion systems for autonomous vehicles. My work focuses on building **robust, scalable perception solutions** to advance self-driving technologies
 
 🔭 **Currently:** Pushing the boundaries of 3D perception at Sandvik.  
-🌱 **Learning/Exploring:** Edge AI for Robotics.  
-💬 **Ask me about:** LiDAR perception, sensor fusion, or how to make deep learning models efficient on edge devices.  
+🌱 **Learning/Exploring:** Perception for aerial object detection.  
+💬 **Ask me about:** LiDAR perception, object detection with camera or sensor fusion.
 
 ---
 
@@ -15,7 +15,7 @@ I’m a **Machine Perception Engineer** specializing in developing cutting-edge 
 
 | Project | Description | Tech Stack |  
 |---------|-------------|------------|  
-| **[PeSAR](https://github.com/eadali/PeSAR)** | AI-powered visual detection system for aerial search operations. | ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) |  
+| **[PeSAR](https://github.com/eadali/PeSAR)** | AI-powered visual detection system for aerial search operations. | ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |  
 
 ---
 
