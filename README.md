@@ -20,4 +20,4 @@ I’m a **Machine Perception Engineer** specializing in developing cutting-edge 
 ---
 
 ## 📫 **Let’s Connect**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/erkan-adali-7b224293/) [![HuggingFace](https://img.shields.io/badge/HuggingFace-Connect-yellow)](https://www.linkedin.com/in/erkan-adali-7b224293/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/erkan-adali-7b224293/) [![HuggingFace](https://img.shields.io/badge/HuggingFace-Connect-yellow)](https://huggingface.co/eadali) 
