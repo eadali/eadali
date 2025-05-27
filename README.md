@@ -6,7 +6,7 @@
 I’m a **Machine Perception Engineer** specializing in developing cutting-edge LiDAR, camera, and sensor fusion systems for autonomous vehicles. My work focuses on building **robust, scalable perception solutions** to advance self-driving technologies
 
 🔭 **Currently:** Pushing the boundaries of 3D perception at Sandvik.  
-🌱 **Learning/Exploring:** Perception for aerial object detection.  
+🌱 **Learning/Exploring:** Perception for remote sensing.    
 💬 **Ask me about:** LiDAR perception, object detection with camera or sensor fusion.
 
 ---
